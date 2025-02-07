@@ -1,2 +1,1 @@
-console.log("hello world")
-// FUCK YOU LINUS!!
+console.log("Hello, world!");
